@@ -1,0 +1,30 @@
+# Build data
+build/
+
+# GruntJS Task
+node_modules/
+
+#OS junk files
+# Exclude generated files
+
+.idea/vcs.xml
+.idea/
+.idea
+.DS_Store
+.DS_Store?
+.svn
+.cvs
+*~
+*.bak
+*.mwb.beforefix
+*.swp
+[Tt]humbs.db
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+*[Tt]humbs.db
+*.Trashes
+.psd
+.sass-cache
+
